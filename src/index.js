@@ -1,5 +1,6 @@
 /* eslint-disable no-undef */
 /* eslint-disable import/extensions */
+import './style.css';
 import slideGallery from './slideGallery.js';
 import dropDownMenu from './dropDownMenu.js';
 
